@@ -33,6 +33,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
+
 <div class="alert alert-danger">
 This is the workshop template. This isn't a real workshop, it's just a website that Erin created as part of DC instructor training, so don't try to show up in the Orchard Room on this day.
 </div>
